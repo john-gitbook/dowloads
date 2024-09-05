@@ -24,3 +24,5 @@ download this
 {% file src=".gitbook/assets/darkmode.svg" %}
 
 If you are looking for the private space, you can find it [here](https://tests.johntests.com/va-space-1/).
+Public Space.pdf
+{% file src="Public Space.pdf" %}
