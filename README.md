@@ -13,16 +13,16 @@ layout:
     visible: true
 ---
 
-# Hi Everyone!
+# Files
 
-This space is viewable by the public
+This file is in my Assets folder and was uploaded directly to GitBook:
 
 {% file src=".gitbook/assets/Public Space.pdf" %}
 
-download this
+This file is in my Assets folder and was uploaded to GitHub
+{% file src=".gitbook/assets/en.pdf" %}
 
-{% file src=".gitbook/assets/darkmode.svg" %}
 
-If you are looking for the private space, you can find it [here](https://tests.johntests.com/va-space-1/).
-Public Space.pdf
+This file was directly uploaded to GitHub and is not in the Assets folder
 {% file src="Public Space.pdf" %}
+
