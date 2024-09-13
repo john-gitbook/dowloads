@@ -9,11 +9,12 @@ redirects:
   sup: page-1.md
   ro.html: page-1.md
   00.html: page-2.md
-  00-node.html: page-2.md
   00-hi.html: page-1.md
   00-10.html: page-1.md
   01-i.html: page-1.md
   11-i.html: page-1.md
+  00-node.html: page-1.md
+  
 
   
   
