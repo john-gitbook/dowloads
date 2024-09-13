@@ -3,7 +3,7 @@ root: ./
 redirects:
   help: README.md
   yo: README.md
-  00-00-sup-1: page-1.md
+  00-sup.html: page-1.md
   sup: page-1.md
   ro.html: page-1.md
   00.html: page-2.md
