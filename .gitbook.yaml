@@ -19,8 +19,7 @@ redirects:
   kk: page-2.md
   hiii.html: page-2.md
 
-00-node.html: network/README.md
-00-00-setup.html: network/running-a-node/setup.md
+
   
   
   
