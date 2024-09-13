@@ -5,6 +5,8 @@ redirects:
   00-node.html: page-1.md
   00-00-setup.html: page-1.md
   yo: README.md
+  00-01-upgrading.html: page-1.md
+  hiil: page-1.md
   00-sup.html: page-1.md
   n00-00.html: page-2.md
   00-00.html: page-2.md
