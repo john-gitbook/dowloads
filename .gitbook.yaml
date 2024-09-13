@@ -14,6 +14,7 @@ redirects:
   01-i.html: page-1.md
   11-i.html: page-1.md
   00-node.html: page-1.md
+  kk: page-2.md
   hiii.html: page-2.md
 
 
