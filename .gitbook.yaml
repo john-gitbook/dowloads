@@ -2,3 +2,6 @@ root: ./
 
 redirects:
   help: README.md
+  yo: README.md
+  
+  
