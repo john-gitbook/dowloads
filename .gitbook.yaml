@@ -5,7 +5,7 @@ redirects:
   yo: README.md
   00-sup.html: page-1.md
   n00-00.html: page-2.md
-  00-00.html: page-2
+  00-00.html: page-2.md
   sup: page-1.md
   ro.html: page-1.md
   00.html: page-2.md
