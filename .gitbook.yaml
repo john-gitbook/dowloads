@@ -9,8 +9,8 @@ redirects:
   ro.html: page-1.md
   00.html: page-2.md
   00-node.html: page-2
-  00-hi.html: page-3
-  00-10.html: page-3
+  00-hi.html: page-1
+  00-10.html: page-1
 
   
   
