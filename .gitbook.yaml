@@ -3,10 +3,12 @@ root: ./
 redirects:
   help: README.md
   yo: README.md
+  sup-1: page-1.md
   sup: page-1.md
   ro.html: page-1.md
   00.html: page-2.md
   00-node.html: page-2
+  00-00-setup.html: page-2
   
   
   
