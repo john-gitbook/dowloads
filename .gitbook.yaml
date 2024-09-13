@@ -4,5 +4,6 @@ redirects:
   help: README.md
   yo: README.md
   sup: page-1.md
+  ro.html: page-1.md
   
   
