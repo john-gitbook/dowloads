@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  help: readme.md
+  help: README.md
