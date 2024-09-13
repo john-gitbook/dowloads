@@ -15,14 +15,7 @@ redirects:
   11-i.html: page-1.md
   00-node.html: page-1.md
   00-fffk.html: page-2.md
-  intro.html: README.md
-  00-node.html: page-2.md
-  00-01-upgrading.html: page-2.md
-  00-02-validating.html: page-2.md
-  00-03-bitcoin-relayer.html: page-2.md
-  00-04-bitcoin-signer.html: page-2.md
-  00-05-ibc-relayer.html: page-2.md
-  00-fffk.html: page-2.md
+
 
   
   
